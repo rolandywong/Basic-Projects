@@ -1,1 +1,1 @@
-Currently the calculator does render but the buttons are nonfunctional.
+Welcome to my calculator!
